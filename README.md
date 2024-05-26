@@ -8,11 +8,12 @@ The dataset used for analysis is available [here](https://www.kaggle.com/dataset
 
 ## Main Dashboard
 The main dashboard provides an overview of churned customers across categories, highlighting critical factors like revenue loss, leading churn-inducing services, and the number of customers at risk of churning.
-//![Main Dashboard](https://example.com/assets/main.png)
+![Main Dashboard](main.png)
 
 
 ## Risk of Churning Dashboard
 Leveraging High-Value Score and Churn Risk Score, this dashboard analyzes customer distribution, revenue by risk category, and tenure category. It uses complex DAX queries dervied from the weights assigned in the correlation graph for all features vs a customer churning to calculate which customers are at risk of churning.
+
 
 ## Customer Demographics
 Analyzing customer demographics such as gender, age, marital status, dependents, and referrals offers insights for targeted marketing strategies and customer segmentation, crucial for catering to specific age groups effectively.
