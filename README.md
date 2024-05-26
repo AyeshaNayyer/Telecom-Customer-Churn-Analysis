@@ -13,20 +13,23 @@ The main dashboard provides an overview of churned customers across categories, 
 
 ## Risk of Churning Dashboard
 Leveraging High-Value Score and Churn Risk Score, this dashboard analyzes customer distribution, revenue by risk category, and tenure category. It uses complex DAX queries dervied from the weights assigned in the correlation graph for all features vs a customer churning to calculate which customers are at risk of churning.
-
+![At risk Dashboard](at_risk.png)
 
 ## Customer Demographics
 Analyzing customer demographics such as gender, age, marital status, dependents, and referrals offers insights for targeted marketing strategies and customer segmentation, crucial for catering to specific age groups effectively.
+![Customer Dashboard](customer_demographics.png)
 
 ## Revenue Dashboard
 Insights into revenue loss from churned customers and potential revenue at risk from customers prone to churning are provided in the revenue dashboard. Key performance indicators and payment plan preferences enrich understanding of revenue dynamics.
+![Revenue Dashboard](revenue.png)
 
 ## Services Dashboard
 This dashboard evaluates the performance of phone and internet services offered by the telco company.
+![Services Dashboard](services.png)
 
 ## Location Analysis
 A location dashboard allows for comprehensive regional analysis, identifying geographical patterns in customer behavior, service preferences, and revenue generation.
-
+![Location Dashboard](location.png)
 
 
 ## Final Insights and Conclusions
