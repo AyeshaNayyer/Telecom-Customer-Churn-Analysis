@@ -13,7 +13,7 @@ The main dashboard provides an overview of churned customers across categories, 
 
 
 ## Risk of Churning Dashboard
-Leveraging High-Value Score and Churn Risk Score, this dashboard analyzes customer distribution, revenue by risk category, and tenure category. It uses complex DAX queries dervied from the weights assigned in the correlation graph for all features vs a customer churning to calculate which customers are at risk of churning.
+Leveraging High-Value Score and Churn Risk Score, this dashboard analyzes customer distribution, revenue by risk category, and tenure category. It uses complex DAX queries dervied from the weights assigned in the correlation graph for all features vs a customer churning to calculate which customers are at risk of churning.This graph is present in the EDA file
 
 ![At risk Dashboard](at_risk.png)
 
